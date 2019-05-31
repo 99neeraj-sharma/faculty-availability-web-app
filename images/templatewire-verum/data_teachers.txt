@@ -1,0 +1,509 @@
+Name	Designation	Contact	Email	Office	Residence Office	Home	Other/Fax
+Timothy A Gonsalves	Director	267001	267003	9418047732/267009	director	A7-Top Floor	C-36 (S-1), NC
+Monika Kashyap	Superintendent	267002 / 267001	267090	9418055034/267009	monika, diroffice	A7-Top Floor	C37 (G-1) NC
+Nishant Kumar	Astt. Office Executive	267002		9318220002/267009	nishantoa	A7-Top Floor	Off Campus
+Manoj Kumar	Junior Attendant	267002		9816292266	manojkumar	A7-Top Floor	ST-1, F-3, NC
+Shyam Singh	Driver	267002				A7-Top Floor	Off Campus
+
+Deans
+Name	Designation	Contact	Email	Office	Residence Office	Home	Other/Fax
+B. D. Chaudhary	Dean Faculty	267819	276802	9418087959	deanfaculty	A3-101	C11, (F2), NC
+Pradeep Parameswaran	Dean Academics	267068	267088	8894960670	deanacad	A3-211	C-2, SF, SC
+Prem Felix Siril	Dean(SRIC)/Part Time CVO	267040	267190	9418018620	deansric	A3-312	C-6 (G-1), SC
+S.C Jain	Dean(I & S)	267278	267161	9837015466	deaninfra	A3-207	C5 (F-2) , SC
+Suman Kalyan Pal	Dean Students	267062	267192	9459528125	deanstudents	Bamboo Hut-127	C-6 (F-1), SC
+Vishal Singh Chauhan	Dean (F&A) Acting	267044	267196	8679321375	deanfinance	A3-308	C-7 (G-1), SC
+
+Associate Deans
+Name	Designation	Contact	Email	Office	Residence Office	Home	Other/Fax
+Anil Kumar Sao	Associate Dean (Courses)	267066	267085	9218214863	adcourses	A3-207	C-7 (F-1), SC
+Rahul Vaish	Associate Dean (Research)	267139	267205	9736033342	adresearch	A4-205	C-34 (F-2), NC
+Samar	Associate Dean (SRIC)	267107	237217		adsric	A1-318	Off Campus
+Tulika P. Srivastava	Associate Dean (Recruitment)	267060	267204	9816666438	adrecruit	A3-210	C-34 (F-1), NC
+Varun Dutt	Associate Dean (International Relations)	267041	267084	8627974036	varun, adintrel	A3-305	C-7 (G-2), SC
+Vishal Singh Chauhan	Associate Dean (F&A)	267044	267196	8679321375	adfin	A3-308	C-7 (G-1), SC
+
+Registrar Office
+Name	Designation	Contact	Email	Office	Residence Office	Home	Other/Fax
+Vishal Singh Chauhan	Registrar In-charge	267015		8679321375	registrar	A7-Top Floor	Off Campus
+Anuj Kumar Dubey	PA to Registrar	267015		7831811919	anuj	A7-Top Floor	Off Campus
+Aditi Vaidya	Office Assistant	267075			regoa1	A7-Top Floor	Off Campus
+Leela Dhar	Office Attendant	267015		9418744554	-	A7-Top Floor	D-6, SC
+
+School of Computing & Electrical Engineering
+Name	Designation	Contact	Email	Office	Residence Office	Home	Other/Fax
+Bharat Singh Rajpurohit	Assoc. Professor (chairperson)	267046	267191	8894580096	bsr	A3-311	C-6 (G-2), SC
+Anil Kumar Sao	Assoc. Professor	267066	267085	9218214863	anil	A3-207	C-7 (F-1), SC
+Ankush Bag	Asst. Professor	267276	267201	9903075423	ankushbag	A6-22	C-1 (SF) , SC
+Aditya Nigam	Asst. Professor (C)	267152	267099	8894607738	aditya	A4-306	C-1, FF, �SC
+Arnav Bhavsar Vinayak	Asst. Professor	267049	267104	9816637024	arnav	A3-307	C-4 (S-3), SC
+Arti Kashyap	Assoc. Professor (J.App.)	267042	267806	8988304370	arti	A3-212	C-37 (G-2), NC
+B. D. Chaudhary	Emeritus Professor	267819	276802	9418087959	bdchaudhary	A3-101	C11, (F2), NC
+Bhakti Madhav Joshi	Asst. Professor	267051	267181		bhakti	A1-322	C-4 (S-1), SC
+Deepak Khemani	Professor(On Deputation)	267227	267174		khemani	A-3, Top Floor	C-4, (F-4), SC
+Dileep A. D	Asst. Professor	267047	267103	9459477409	addileep	A3-310	C-4 (F-2), SC
+Gopi Shrikanth Reddy	Asst. Professor	267221	267239	9833990418	gopishrikanth	A6-19 SC	C11-F2 NC
+Hitesh Shrimali	Asst. Professor	267259	267158	9805507238	hitesh	A1-314	C-5 (G-3), SC
+Kunal Ghosh	Asst. Professor	267145	267199	8017934643	kunal	A4-211	C-3 (FF) , SC
+Narsa Reddy Tummuru	Asst. Professor	267225	267159	7807119519	tummuru	A6-21	C-5 (G-4), SC
+Padmanabhan Rajan	Asst. Professor	267049	267102	9418115552	padman	A3-307	C-4 (S-2), SC
+Rahul Shrestha	Asst. Professor	267271	267236	7807460727	rahul_shrestha	A6-3	C -37 (F-1), NC
+Ramesh Oruganti	Emeritus Professor	267123	267083	8894296679	ramesho	A1-304	C-3 FF, SC
+Renu M. Rameshan	Asst. Professor	267113	267078		renumr	A1-322	C-4 (S-4), SC
+Samar	Asst. Professor	267107	237217		samar	A1-318	Bhiuli, Mandi
+Satinder Sharma	Assoc. Professor	267134	267210	9459190073	satinder	A4-201	C-35 (F-1) , NC
+Satyajitsinh A. Thakor	Asst. Professor	267150	267200	9816099683	satyajit	A4-304	C-2 (FF) , SC
+Shubhajit Roy Chowdhury	Asst. Professor	267110	267212	9816683456	src	A1-311	C-35 (S-1), North Campus
+Siddhartha Sarma	Asst. Professor	267116	267233	8277566431	siddhartha	A1-309	ST-2 (F-1) , NC
+Srikant Srinivasan	Asst. Professor	267804	267183	7807573820	srikant	A6 - 7	C-5, (S-3), SC
+Sriram Kailasam	Asst. Professor	267120	267811	8894275490	sriramk	A1-301	C-12, G-1, NC
+Tushar Jain	Asst. Professor	267117	267197		tushar	A1-308	C-3 (GF) , SC
+Varun Dutt	Asst. Professor (J.App.)	267041	267084	8627974036	varun	A3-305	C-7 (G-2), SC
+Yvonne Dittrich	Adjunct Professor				ydi		Off Campus
+Astrid Kiehn	Visiting Associate Professor	267053		7838966476	astrid	A1 - 321	C1 (GF) SC
+Gopi Shrikanth Reddy	Asst. Professor	267221	267239	9833990418	gopishrikanth	A6-19 SC	C11-F2 NC
+Seema Chauhan	Lab Technical Assistant	267187		9459740646	spcomlab	SP Com Labs, Near Mech. Workshop
+Rakhi Sankhyan	Office Assistant	267133			rakhioa	A3-209	Off Campus
+Santosh Sharma	Lab Technical Assistant	267125		9418859641	delab	Analog and Digital Electronics Lab
+Puneet Sharma (NKN)	Project Associate	267052		9459766595	puneetnkn	A1-NKN	Off Campus
+Arun Kumar	Lab. Technical Assistant	267186		8988367199	eelabs	Near Mech. workshop
+Shivam	Lab. Technical Assistant	267185		9459058479	controllab	Control system & Robotics Lab
+Tarun Verma	Junior Lab Assistant	267125		7807331931	tarun_verma	DAE Lab	ST-1, G-3, NC
+Maneshwar	Multiple Assistant	267133		9458165952	maneshware	A3-209
+
+School of Basic Sciences
+Name	Designation	Contact	Email	Office	Residence Office	Home	Other/Fax
+Syed Abbas	Assoc. Professor (Chairperson)	267150	267247	8894559352	abbas	A4-304	C-12 (F-2), NC
+Arghya Tarafdar	Professor	267803	267802	9434715133, 8918849288	arghya		D1 GF (near the Uhl GH)
+Prasanth P. Jose	Asst. Professor	267266	267081	9459528091	prasanth	G1-109	C-7 (S-2), SC
+Aditi Halder	Asst. Professor	267139	267218	9736142435	aditi	A4-205	C-36 (S-2), NC
+Ajay Soni	Asst. Professor	267154	267211	9459855592	ajay	A4-309	C-35 (F-2) , NC
+Amit Jaiswal	Asst. Professor	267154	267216	8629896027	j.amit	A4-309	C-36 (F-1) , NC
+Amit Prasad	Asst. Professor	267263	267214	9805080594	amitprasad	A4-309	C-36 (G-1) , NC
+Aniruddha Chakraborty	Assoc. Professor	267067		9459527550	achakraborty	A1-320	Off Campus
+Arti Kashyap	Assoc. Professor (J.App.)	267042	267806	8988304370	arti	A3-212	C-37, (S-2), NC
+Bindu Radhamany	Assoc. Professor	267060	267193	9418066830	bindu	A3-210	C-6 (F-2), SC
+C. S. Yadav	Asst. Professor	267258	267207	9816614494	shekhar	A6-9	C-34 (S-2), NC
+Chayan K. Nandi	Assoc. Professor	267047	267086	8894377029	chayan	A3-310	C-2 FF, KS, SC
+Hari Varma	Assoc. Professor	267064	267080	9816009446	hari	A3-206	C-7 (S-1), SC
+Kalpesh Haria	Asst. Professor	267114	267169	8310219725/9537946694	kalpesh	A-1, 315
+Kaustav Mukherjee	Asst. Professor	267043	267089	9816316601	kaustav	A3-306	C-2 GF, SC
+Ken Gonsalves	Visiting Distinguished Professor			8626834100	kenneth		Off Campus
+Manoj Thakur	Assoc. Professor	267142	267097	9805132227	manoj	A4-208	C-1 (SF), SC
+Muslim Malik	Asst. Professor	267119	267172	8627979526	muslim	A1-306	C-4 (F-1), SC
+Neha Garg	Ramanujan Fellow	267140	267156	9818082907	neha	A4-206	C-5 (G-1), SC
+Nitu Kumari	Asst. Professor	267109	267095	8894303773	nitu	A1-68	C-7 (F-2), SC
+Pradeep Kumar	Visiting Asst. Professor	267137	267202	8894299733	pkumar	A4-204	C34 G1 NC
+Pradeep Parameswaran	Assoc. Professor	267045	267088	8894960670	pradeep	A3-211	C-2, SF, SC
+Pradyuman K Pathak	Asst. Professor	267046	267090		ppathak	A3-311	C37 (G-1) NC
+Prem Felix Siril	Assoc. Professor	267040	267190	9418018620	prem	A3-312	C-6 (G-1), SC
+Prosenjit Mondal	Asst. Professor	267262	267203	8894296497	prosenjit	A6-13	C-34 (G-2), NC
+Qaiser Jahan	Asst. Professor	267050	267158	8318426536	qaiser	A1-319
+Rajanish Giri	Asst. Professor	267134	267156	9816014007	rajanishgiri	A4-201	C-5 (G-1), SC
+Rajendra Kr. Ray	Assoc. Professor	267041	267087	8894067994	rajendra	A3-305	C-2 GF, SC
+Sarita Azad	Asst. Professor	267141	267205	9736548922	sarita	A4-207	C-34 (F-2), NC
+Shyam Kumar Masakapalli	Asst. Professor	267151	267162	8628088505	shyam	A4-305	C-37 (G-2), NC
+Subrata Ghosh	Assoc. Professor	267069	267194	9459527580	subrata	A3-208	C-6 (S-1), SC
+Suman Kalyanpal	Assoc. Professor	267040	267192	9459528125	suman	A3-312	C-6 (F-1), SC
+Tulika Srivastava	Assoc. Professor	267060	267204	9816666438	tulika	A3-210	C-34 (F-1), NC
+Venkata Krishnan	Assoc. Professor	267065	267082	9418425432	vkn	A3-208	C-3 SF, SC
+Prateek	Office Assistant	267133		9418161961	sbsoffice	A3-209	Off Campus
+Anoop Kumar	Office Assistant	267061		01905267061	sbsoa1	A3-209	Off Campus
+Physics LAB	Physics LAB, Stable Complex	267226				Physics LAB, Stable Complex
+
+School of Engineering
+Name	Designation	Contact	Email	Office	Residence Office	Home	Other/Fax
+Rajeev Kumar	Assoc. Professor (chairperson)	267148	267195	9857407104	rajeev	A4-302	C-6 (S-2), SC
+Deepak Swami	Asst. Professor	7269	26708	8628039502	deepak	A6-1	C-35 (G-1), NC
+Arpan Gupta	Asst. Professor	267135	267077	8894900808	agupta	A4-202	Off Campus
+Atul Dhar	Asst. Professor	267143	267171	9805893947	add	A4-209	C-4 (G-4), SC
+Dericks Praise Shukla	Asst. Professor	267147		+919418906989	Dericks	A4-301	Off Campus
+Gaurav Bhutani	Asst. Professor	267108	267124	8219209238	gaurav	A1	Gharpa, S-2
+Himanshu Pathak	Asst. Professor	267224	267808	8130284415	himanshu	A6-4	G-2, Gharpa
+Jaspreet Kaur Randhawa	Asst. Professor	267056	267190	9805191075	jaspreet	A1-323	C-6 (G-1), SC
+K S Kasiviswanathan	Asst. Professor	267079	267071	9952199196	kasiviswanathan	A6-15	C-5, (F-1), SC
+Kala Venkata Uday	Asst. Professor	267149	267816	8628039349	uday	A4-303	C-36 (F-2) , NC
+Maheshreddy Gade	Asst. Professor	267223	267160	9790466312	maheshreddy	A6-10	C-5, (F-3), SC
+Mohammad Talha	Assistant Professor	267152	267164	9805893924	talha	A4-306	C-5 (S-1), SC
+P. Anil Kishan	Asst. Professor	267141	267170	9459603254	kishan	A4-207	C-4 (G-3), SC
+Pradeep Kumar	Asst. Professor	267112	267072	9816017800	pradeepkumar	A1-313	C11 -G2, NC
+Rahul Vaish	Assoc. Professor	267139	267205	9736033342	rahul	A4-205	C-34 (F-2), NC
+Rajesh Ghosh	Asst. Professor	267151	267215	8628039494	rajesh	A4- 305	C-36 (G-2), NC
+Rajnish Sharma	Asst. Professor	267144		08988090250	rajnishsharma	A4-210	Off Campus
+Rik Rani Koner	Asst. Professor	267220	267194	9816978554	rik	G1-101	C-6 (S-1), SC
+S.C Jain	Emeritus Professor	267278	267161	9837015466	satish	A3-207	C5 (F-2) , SC
+Sandip Kumar Saha	Asst. Professor	267264	267165	8860689457	sandip_saha	A10-F7, North Campus	C-5, (S-2), SC
+Satvasheel Ramesh Powar	Asst. Professor	267136	267198	787530700	satvasheel	A4-203	C-3 (GF) , SC
+Subrata Ray	Visiting Distinguished Professor	267069	237961	9897645575	sray		Off Campus
+Vishal Singh Chauhan	Asst. Professor	267044	267196	8679321375	vsc	A3-308	C-7 (G-1), SC
+Viswanath Balakrishnan	Asst. Professor	267142	267218	9736009153	viswa	A4-208	C-36 (S-2), NC
+Ajit P. Annachhatre	Visiting Professor	267143	267206	8544742156	ajit	A4-209	N.C
+Subhamoy Sen	Asst. Professor	267261	267092	8894087002	subhamoy		C-1, (FF), SC
+Sudhir Kumar Pandey	Asst. Professor	267066	267193	9418279015	sudhir	A3-207
+Sumit Sinha Ray	Asst. Professor	267265	267182	9748159620	sumitsinha	A6-16	C-5, (S-4), SC
+Sunny Zafar	Asst. Professor	267268	267235	7579087032	sunnyzafar	A6-5	ST-2 (S-4), NC
+Kaustav Sarkar	Asst. Professor	267145	267213	8628978584	srkr	A4-211	C-35 (S-2), NC
+Mousumi Mukherjee	Asst. Professor	267111	267157	8628890339	mousumi	A1- 312	C5 (G-2), SC
+R S Raghav	Technical Supt.	267017		9805500418	raghavrs	Mechanical Workshop	Block - 5, Ground Floor, SC
+Amit Sharma	Senior Lab Assistant	267178		9736318448	amits	Mech. Lab	ST-1, T-4, NC
+Ankush kapil	Senior Lab Assistant	267018		9459510629	ankush	Mechanical Workshop	ST-1, S-4, NC
+Dinesh Thakur	Junior Lab Assistant	267241		9418169227	dinesh_thakur	Lab Block, Near Stable Complex	ST-1, G-1, NC
+Mamta	Office Assistant	267138		9882107160	seoffice	A4-Building	Off Campus
+Mechanical Laboratory		267231				Mechanical Laboratory , Near stable complex
+
+School of Humanities & Social Sciences
+Name	Designation	Contact	Email	Office	Residence Office	Home	Other/Fax
+Rajeshwari Dutt	Asst. Professor (Chairperson)	267043	267084	8627974032	rdutt	A3-306	C-3, GF, SC
+Aruna Bommareddi	Asst. Professor	267121	267168	9459879812	aruna	A1-302	C-4 (G-1), SC
+Bhavender Paul	Adjunct Professor	267046		8628855440	bp	A3, Building	Off Campus
+Devika Sethi	Asst. Professor	267270	267174	7831000565	devika	A6-2	C-4 (F-3), SC
+Manu V Devadevan	Asst. Professor	267147		9418162555	manu	A4-301	Off Campus
+Puran Singh	Asst. Professor	267148	267245	7807201834	puran	A4-302	C-12, G2, NC
+Ramna Thakur	Asst. Professor	267044	267082	9418074239	ramna	A3-308	C-3 SF, SC
+Suman	Asst. Professor	267140	267202	8988304383	suman.sigroha	A4-206	C34 G1 NC
+Surya Prakash Upadhyay	Asst. Professor	267136	267246	9816640042	surya	A4-203	C-12, F-1, NC
+Shyamasree Dasgupta	Assistant Professor	267122	267091	8017448340	shyamasree	A1- 303	C-1 GF, SC
+Gokul Somasekharan	Teaching Fellow	267144	267807	9805084070	gokul	A4-210	Gharpa, G-2
+Stuti Sharma	Office Assistant	267133		7018345747	stutioa	A3-209	Off Campus
+Advanced Materials Research Center (AMRC)
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Dushyant Kumar	Office Assistant	267027		9817209040	dushyant	A2-101	Off Campus
+Ishita Nandi	Project Associate	267035	267086	8894580097		A2-101	C-2 FF, SC
+Pallavi Sharma	Technical Assistant	267035		8988066785		A2-101	Off Campus
+Sunil Kumar	Project Associate	267027		9459044304		A2-108	Off Campus
+Puneet Sood	Project Engineer	267027		9857521476		A2-101	Off Campus
+Arjun Barwal	Project Associate	267027		9817359049		A2-101	Off Campus
+Karam Singh	Attendent	267027		9805393060		A2-101	Off Campus
+Labs
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Seema Chauhan	Lab Technical Assistant	267187		9459740646	spcomlab	SP Com Labs, Near Mech. Workshop
+Arun Kumar	Lab. Technical Assistant	267186		8988367199	eelabs	Labs Block, Near Mech. workshop
+Shivam	Lab. Technical Assistant	267185		9459058479	controllab	Control system & Robotics Lab
+Santosh Sharma	Lab Technical Assistant	267125		9418859641	delab
+Arun Kumar	Lab. Technical Assistant	267294		8988367199		Power Electronics Lab, A8, First Floor
+Tarun Verma	Jr Lab Assistant	267125		7807331931	tarun_verma	DAE Lab, Lab Block	ST-1, G-3, NC
+Ankush kapil	Sr. Lab Assistant	267018		9459510629	mworkshop	Mechanical Workshop	ST-1, S-4, NC
+Amit Sharma	Sr. Lab Assistant	267178		9736318448	designlab, tflab, mclab, surveylab	Lab Block, Near Stable Complex	ST-1, T-4, NC
+Dinesh Thakur	Jr. Lab Assistant	267241		9418169227	designlab, tflab, mclab, surveylab	Lab Block, Near Stable Complex	ST-1, G-1, NC
+Administration
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Vivek Tiwari	Assistant Registrar	267010	267810	9736037080	aradmin	A7-Top Floor	C-37 (F-2), NC
+Prakash Singh Negi	Jr. Asstt.	267004		9816328161	prakash	A7-Top Floor	ST-2, G1 North Campus
+Suchetna Shachi	Sr. Assistant.	267004		9459528785	suchetnaja	A7-Top Floor	ST-2, G-2, NC
+Sanjay Kumar	Office Attendant			8988520785		A7-Top Floor	Off Campus
+Central Postal Service(Dak)
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Aditya Malhotra	Jr. Office Assistant	267188		9418066693	adityam	Bamboo Hut	Off Campus
+Bhupinder Kushal	Attendent	267188			cds	Bamboo Hut	Off Campus
+Academics Section
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Suresh Kumar Rohilla	Assistant Registrar	267058		9816074476	aracad	A3-102	Off Campus
+Sushma Kumari	Sr. Assistant	267073		9459360893	deanoffice	A3-107	Off Campus
+Kuldeep	Office Assistant	267063		9857873420	kuldeep	A3-107	Off Campus
+Sonia Gupta	Office Assistant	267063		9459762937, 9418218805	acadoa1 , soniaoa	A3-107	Off Campus
+Finance & Accounts Section
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+J. R. Sharma	Finance Officer	267012		9418028163	fo	A7-Top Floor	Off Campus
+Sunil Chauhan	Sr. Assistant	267177		97368-11651	sunilchauhan	A7-Top Floor	ST-1, F-2, North Campus
+Pawan Kr Patial	Senior Accountant	267177		9816887432	pawan.patial	A7-Top Floor	ST-1/G2 North Campus
+Sanjay Vardhan	Office Assistant	267177		-	sanjayoa	A7-Top Floor	Off Campus
+Alka	Office Assistant	267177		.	faoffice	A7-Top Floor	Off Campus
+Sunil Kumar	Office Assistant	267177			accountsoa2	A7-Top Floor	Off Campus
+Tara Devi	Office Assistant	267177			accountsoa1	A7-Top Floor	Off Campus
+Adesh Kumar Kagra	Office Attendent	267177				A7-Top Floor	Off Campus
+Recruitment Cell
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+C. L. Sharma	Assistant Registrar	267128		9418309169	arrecruit	A7-Top Floor	Off Campus
+Neelam Kumari	Office Assistant	267130		9045829021	neelam_kumari	A7-Top Floor	Off Campus
+Internal Audit Section
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+C. L. Sharma	Assistant Registrar	267128		9418309169	araudit	A7-Top Floor	Off Campus
+Ramesh Kumar	Sr. Accountant	267130		9625380825	jaccountant	A7-Top Floor	ST-1, F-4, North Campus
+Kahan Singh	Office Assistant	267130		9805408688		A7-Top Floor	Off Campus
+Store & Purchase Section
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Parminder Jit Gill	Assistant Registrar	267039	267805	9418454496	arsp	A7-Top Floor	C-37, (S-1), NC
+Sushil K. Pal	Sr. Assistant	267048		9410778318	sushil	A7-Top Floor	ST-1, S-3, NC
+Vijay	Office Assistant	267048		7018307926		A7-Top Floor	Off Campus
+Arsheen Gurung	Office Assistant	267048		7807472993	spoa1	A7-Top Floor	Off Campus
+Budhi Singh	Office Attendent			9816307145		A7-Top Floor	Off Campus
+Medical Unit
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Chander Singh	Medical Officer	267238	267280	9816661854	dr.chandersingh	Medical Unit Kamand	D1 Ground Floor, SC
+Neha Sharma	Medical Officer	267014			nehasharma	Medical Unit Kamand	Studio Apartment, No. - 108, SC
+D.K Arora	ENT Specialist					Every Thursday & Friday (MU) S.C Kamand
+Jasdeep Singh	Pediatrician					Every Thursday & Friday (MU) S.C Kamand
+Mridu Thakur	Medical Officer	267209		8959884566	mridu	Medical Unit North Campus
+Vijay Kumar	Pharmacist	267014		9805274084	vijay_kumar	Medical Unit Kamand
+Kamlesh Saklani	Staff Nurse	267014		9805979520	kamlesh_saklani	Medical Unit Kamand	Off Campus
+Seema Kumari	Staff Nurse	267014		9418475998	seema_k	Medical Unit Kamand
+Bhavneshwari	Staff Nurse	267014		9459037047	bhavneshwari	Medical Unit Kamand
+Chandni	Staff Nurse	267014		8988413235	chandni	Medical Unit Kamand
+Ishita Sharma	Staff Nurse	267014		9418461819	ishita	Medical Unit Kamand	Off Campus
+Namita Kumari	Staff Nurse	267014		7807138178	namita_kumari	Medical Unit Kamand	Off Campus
+Kant Kumar	Lab Technician	267014		9816033519		Medical Unit Kamand
+Dharampal	Ambulance Driver	267014		8628835180		Medical Unit Kamand
+Hem Raj	Ambulance Driver (North Campus)			8894237351, 7807474494		Medical Unit Kamand
+Nitesh Sharma	Attendent	267014		9805385192		Medical Unit Kamand
+Emergency Number				9816663003
+Central Library
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Naresh Singh Bhandari	Dy. Librarian	267059		9816016376	nsbhandari	A5-201	Off Campus
+Abhijeet Tiwari	SLIA	267105		8628991166	abhijeet.slia	A5-203	ST-2 (S-3) , NC
+Vinod Kumar	SLIA	267105		9816608706	vinod.slia	A5-203	Off Campus
+Sonali Malhotra	SLIA	267106		9816178636	sonali	A5-202	S-2, (T-3), NC
+Shradha Thakur	Library Assistant	267105			shradhathakur	A5-203	Off Campus
+Mukul Athiya	Library Trainee	267055				A5-203	Off Campus
+Rohit Kumar	Library Trainee	267055				A5-203	Off Campus
+Narender Kumar	Attendent	267055				A5-203	Off Campus
+Ram Lal	Library Restrorer	267055				A5-203	Off Campus
+WING (Web Information & Networks Group)
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Om Shankar Dwivedi	Dy. Manager (OA)	267011		8988221199	omshankar	Bamboo Hut -102	ST-2 (F-4) Campus School Side, NC
+Lalit Thakur	Sr. Lab. Assistant	267129		9816052183	lalit	A5-303	ST-1, T-3, NC
+Desh Raj	JLA	267000			deshraj	Stable Complex	ST-1, T-6, NC
+Chanchla	Project Associate	267034		9805486024	chanchla@projects*	A5 TOP FLOOR lAB 301
+Debashrita Roy Chowdhury	Web Content Developer	267129	267212	7807160928	webcontent, debashrita	A5-303	C-35, S1,NC
+Rakesh Sharma	Project Engineer	267100		9418509843	rakeshsharma	Stable Complex	Off Campus
+Parampreet Kaur	Project Associate	267199			parampreet@projects	Bamboo Hut - 103	ST,NC
+Naveen	Project Associate	267034		9805420430	naveen_k@projects	A5-301	G-2, Suvalsar Hostel, SC
+Gopal Sharma	Project Associate	267034		7018214513	gopal_sharma	A5-302	OFF CAMPUS
+Pratyusha Reddy	Project Engineer	267199			pratyusha@projects*	Bamboo Hut - 103	C-11, F-2, NC
+Khushbhu Atri	Project Attendant	267199			khushabu_atri@projects*	Bamboo Hut - 103	S-1, Renuka Hostel, Mandi
+Dean (SRIC) Office
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Sandeep Kumar	Field officer (SRIC)	267132			sricoffice	Directorate Office -103	Off Campus
+Dean (Students) Office
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Pavin Samuel	Dpty. Administrator (students)	267016		9736000510	pavinaas	Bamboo Hut-127	ST-2 (F-3) NC
+Gunjan Kapoor	Office Assistant	267016			studofficeoa2	Bamboo Hut-127	Off Campus
+Ravinder Kumar	Office Assistant	267228		9459366121	studofficeoa1	Bamboo Hut-127	Off Campus
+Wardens
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+C.S. Yadav	Chief Warden	267135	267207	9816614494	chiefwarden	Bamboo Hut-127	C-34 (S-2), NC
+Parashar Hostel
+Arnav Bhavsar	Warden	267049	267104	9816637024	arnav@iitmandi.ac.in	A3-307	C-4 (S-3), SC
+Subhamoy Sen	Asst. Warden	267261	267092	8628890339	subhamoy		C-1, (FF), SC
+Balam Ram Thakur	Caretaker	267070		9817618216	hostels		Off Campus
+Joginder Pal		267070		98824-92063	hostels
+Hostel Office B1 Block		267074				B1-Block
+Hostel Office B2 Block		267070				Hostel Office B2 Block
+Chandertaal Hostel
+Shyamasree Dasgupta	Warden	267122	267091	8017448340	shyamasree	A1 - 303	C-1 GF, SC
+Mousumi Mukherjee	Asst Warden	267111	267157	8628890339	mousumi	A1- 312	C5 (G-2), SC
+Yashika Arora	Resident Warden			9882875213	d15051*
+Pawana Thakur	Caretaker	267189		9418712934	caretaker_chandrataal		Off Campus
+Bharati		267189		9805555632	caretaker_chandrataal		Off Campus
+Hostel Office B5 Block		267189				Hostel Office B5 Block
+Suvalsar Hostel
+Sunny Zafar	Warden	267268	267235	7579087032	sunnyzafar	A6-5	ST-2 (S-4), NC
+Aditya Nigam	Asst Warden	267152	267099	8894607738	aditya	A4-306	C-1, FF, SC
+Ashish Kumar	Resident Warden			9456526521	d15047*
+Kamal Kant	Caretaker	267076		9459858481	caretaker_suvalsar		Off Campus
+Khem Chand		267076		8626888866	caretaker_suvalsar
+Hostel Office B4 Block		267076				Hostel Office B4 Block
+Nako Hostel
+Himanshu Pathak	Warden	267224	267808	9805893947	himanshu	A6-4	G-2, Gharpa
+MaheshReddy Gade	Asst Warden	267223	267160	9790466312	maheshreddy	A6-10	C-5, (F-3), SC
+Shivam Mishra	Resident Warden			8988225788	d13021*
+Joginder Pal	Caretaker	267019		98824-92063	caretaker_nako		Off Campus
+Khem Chand		267019		9882492063	caretaker_nako
+Hostel Office B7 Block		267019				Hostel Office B7 Block
+Hostel Office B6 Block		267036				Hostel Office B6 Block
+Renuka Hostel
+Sarita Azad	Warden	267141	267245	9736548922	sarita	A4-207	C-34 (F-2), NC
+Bharati	Caretaker	237947		9805555632	renuka		Off Campus
+Renuka Hostel Office		237947				Renuka Hostel Office
+Dashir Hostel
+Gopi Shrikanth Reddy	Warden	267221	267239	9833990418	gopishrikanth	A6-19 SC	C11-F2 NC
+Rahul Shrestha	Asst Warden	267271	267236	7807460727	rahul_shrestha	A4-305	C-36 (G-2), NC
+Chaman Lal	Caretaker	237948		9418161301	caretaker_dashir
+Ravi	Caretaker	237948		9418808674	caretaker_dashir
+Dashir Hostel Office		237948				Dashir Hostel Office
+Beas Kund Hostel
+Amit Jaiswal	Warden	267154	267207	8629896027	j.amit	A4-309	C-36 (F-1) , NC
+Rajesh Ghosh	Asst Warden	267151	267215	8628039494	rajesh	A4- 305	C-36 (G-2), NC
+Vikas Kumar	Resident Warden			8826920615	d16025*
+Chaman Lal	Caretaker	267253		9418161301	caretaker_beaskund		Off Campus
+Ravi Kumar		267253		9418808674	caretaker_beaskund
+Hostel Office B23		267253				Hostel Office B23
+Gauri Kund Hostel
+Aditi Halder	Warden	267139	267218	9736142435	aditi	A4-205	C-36 (S-2), NC
+Pratyusha Reddy	Asst Warden	267199	267239	9100517298	pratyusha@projects	Bamboo Hut - 103	C-11, F-2, NC
+Purushottma	Caretaker	267251		8988155290	caretaker_gaurikund
+Jaiwanti		267251		9418958194
+Hostel Office B22 Block		267251				Hostel Office B22 Block
+Dashir Annex Mandi
+Amit Jaiswal	Asst. Professor	267154	267216	8629896027	j.amit	A4-309	C-36 (F-1) , NC
+Sports
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Shib Jha Nath	Principal Sports Officer	267033		9736161456	snjhaa	Bamboo Hut-126	Studio Apartment -107, SC
+Khushi Ram Bhagat	Physical Training Instructor	267033		9817153553	khushi	Bamboo Hut-126	D 5,Ground floor, SC
+Kaul Singh	Instructor	267033	9882103546	9418400781	kaulsingh	Bamboo Hut-126	D 5, first floor, SC
+NSS
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Atul Dhar	Advisor	267143	267171	9805893947	add	A4-209	C-4 (G-4), SC
+Syed Abbas	Co-Advisor	267150	267247	8894559352	abbas	A4-304	C-12 (F-2), NC
+Prateek	Field Officer	267061		9418161961	nss	A3-209	Off Campus
+Common Rooms
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Prateek	Office Assistant	267133		9418161961	sbsoffice	A3-209	Off Campus
+Lal Chand Verma	Multiple Assistant	237950				Mandav Complex, Mandi Campus	Off Campus
+Mamta	Office Assistant	267138			seoffice	A-4 Building	Off Campus
+Stuti Sharma	Office Assistant	267133			shssoffice, stutioa	A3-209	Off Campus
+Akshay Kapoor	Office Assistant	267061		9459019759	akshayoa	A3-209	Off Campus
+Anoop Kumar	Office Assistant	267061			sbsoa1	A3-209	Off Campus
+Rekha Patiyal	Office Attendent	267180		9459060182	rekhapatyal	A1-305	Off Campus
+Sumeet	Multiple Assistant	267138		9418282002	sumeet	A4-212	Off Campus
+Suruchi	Office Assistant	267277			suruchioa	A6	Off Campus
+Career & Placement Cell
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Nimisha N B	CnP Executive	267005,267006		7807625022	nimisha	Bamboo Hut- Block-D	C-7 (S-2), SC
+Ravinder	Office Assistant	267006		+91-9805050325	cnpcell	Bamboo Hut- Block-D	Off Campus
+IIT Mandi Catalyst
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Puran Singh	Faculty Incharge	267146	267245	7807201834	puran	A4 217	C-12, G2, NC
+Volga Verma	Associate	267146		7807114921	volga@iitmandicatalyst.in	A4 217	Off Campus
+volga@catalyst.iitmandi.ac.in
+Harjot Kaur	Jr. Associate	267146				A4 217	Off Campus
+Guidance & Counselling Cell
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Lishma Anand	Counselor (GCS)	267008	267088	9816098766	lishma	Bamboo Hut-130	C2-Top Floor, SC
+PRC Office
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Chandan Sharma	Jr. Superintendent	267818		9418053066	chandan	Directorate Office -102	Off Campus
+Construction Cell
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Sunil Kapoor	Superintending Engineer	267020		9418025663	sunil	Construction Wing Office Kamand	Off Campus
+Vikas Chaudhary	AE Civil	267028			vikas_kumar	Construction Wing Office Kamand	Off Campus
+Puneet Kumar Sharma	A. E Civil	267240		9459240775	puneetsharma	Construction Wing Office Kamand	ST-2 (S-2), NC
+Anil Kumar Bhatia	Assistant Office Executive	267028		9625913897	aniloa	Construction Wing Office Kamand	Off Campus
+Kamlesh Thakur	JE Civil	267029		9459677439	jecivil	Construction Wing Office Kamand	Off Campus
+Mandheer Bali	JE Civil			9816191082	mandheer	C-35, G2, North Campus
+Deen Dyal	JE Civil	267029		8988022935	deenta	Construction Wing Office Kamand	D-7, GF, SC
+Chirag Vaidya	JE Electrical	267022		7807022753	chirag	Construction Wing Office Kamand	Off Campus
+Estate & Maintenance Cell
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Vikas Chaudhary	AE Civil	267240			vikas_kumar	Construction Wing Office Kamand	Off Campus
+Neeraj Chauhan	JE Electrical	267127		9816172590	je_electrical	Construction Wing Office Kamand	D 5, first floor Navalaya Side
+Navish	T. A. (Civil)	267029		9459945014 , 8627938130	navishta	Construction Wing Office Kamand	D-7, GF, KS
+Transportation
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Manoj Thakur	Chairperson	267142	267097	9805132227	manoj	A4-208	C-1 (SF), SC
+J. R. Sharma	Member (Staff Reprsentative)	267012		9418028163	fo	A7-Top Floor	Off Campus
+Amit Prasad	Member (Faculty Reprsentative)	267263	267214	9805080594	amitprasad	A4-309	C-36 (G-1) , NC
+Ravi Kumar	Member (B.Tech Students Reprsentative)			9805100912	b14333*
+Medha	Member (Scholar Students Reprsentative)			9805888520	d13015*
+Pavin S Samuel	Member Secretary			9736000510	pavinaas
+Ankush	Executive Assistant (Bus/Van)			9816503737	ankushoa
+Rakesh	Executive Assistant (Cars)			9418906200	rakeshoa
+Guest House
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Chandan Sharma	Jr. Superintendent	267818		9418053066	chandan	Directorate Office -102	Off Campus
+Rakesh Bhatt	Astt. Office Executive	267021		9418906200	rakeshoa	Gharpa Guest House	Off Campus
+Gharpa Guest House
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Guest House GF RM-1	Guest House, Gharpa, GF-1		267281
+Guest House GF RM-2	Guest House, Gharpa, GF-2		267282
+Guest House GF RM-3	Guest House, Gharpa, GF-3		267283
+Guest House GF RM-4	Guest House, Gharpa, GF-4		267284
+Guest House GF RM-5	Guest House, Gharpa, GF-5		267285
+Guest House GF RM-6	Guest House, Gharpa, GF-6		267286
+Guest House GF, {Dining Hall}	Guest House, Gharpa, GF-7		267287
+Guest House FF RM-1	Guest House, Gharpa, FF-1		267288
+Guest House FF RM-2	Guest House, Gharpa, FF-2		267289
+Guest House FF RM-3	Guest House, Gharpa, FF-3		267290
+Guest House FF RM-4	Guest House, Gharpa, FF-4		267292
+Guest House FF RM-5	Guest House, Gharpa, FF-5		267293
+Ulh Guest House (Old Director Residence)
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Uhl Guest House	Uhl Guest House RM-1		267296
+Uhl Guest House	Uhl Guest House RM-2		267297
+Uhl Guest House	Uhl Guest House RM-3		267243
+Green office
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Lishma Anand	Green consultant	267260		9816098766	greenoffice	Bamboo B-11
+Munna Kumar	JE horticulture			9459418759	jehorticulture		D-7,GF
+Creche
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Creche		267013
+Infrastructure & Services / Land acquisition
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Daulat Ram	Field Supervisor	267237		7018163487		Bamboo Hut -101	Off Campus
+Abhinav Thakur	Office Assistant	267237		8988417011	infraoa1	Bamboo Hut -101	Off Campus
+Ravinder	Office Assistant	267237				Bamboo Hut -101	Off Campus
+Ashok Pathania	Office Assistant	267237		9418611295	infraoa2 , pathaniaoa	Bamboo Hut -101	Off Campus
+Ankush Sharma	Office Assistant			9816503737	ankushoa	A-3, 205	Off Campus
+Security Unit
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Mr. Hardeep Singh	Security Officer	267179		9418053088	securityofficer	Security Office Kamand	ST-2 (T-2),NC
+Som Raj Thakur	ASO	267179		9459064225	securityoffice	Security Office Kamand	Off Campus
+Sucha Singh	Security Supervisor			9418410809		Kamand	Off Campus
+Security Post near Ulh Guest House		267098				SC, Kamand
+Mandav Complex Security Post (Mandi)		237997				Mandi
+Director's Residence Post		267219				NC, Kamand
+Inside Academic Block Gate Paddal (Mandi)		237940				Mandi
+Ghadpa Guest house Security Post at Kamand		267101				Kamand
+IIT Main Gate Security Post(Kamand)		267096				Kamand
+Recreation Center
+Name	Designation	Contact	Email	Office
+Office	Home	Other/Fax
+Prosenjit Mondal	Faculty Coordinator	267262	267203	8894296497	prosenjit	A6-13
+Recreation Center-01	Recreation Center-01 KMD	267229				Recreation Center-01 , Near stable complex
+Recreation Center-02	Recreation Center-02 KMD	267230				Recreation Center-02 , Near stable complex
+CPWD
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+CPWD 1		267023
+CPWD 2		267024
+CPWD 3		267025
+Central Mess
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Narender Pandit	Caretaker	267070		9418706073	caretaker_mess	B-2 SC	Off Campus
+Mind Tree
+Name	Designation	Contact	Email	Office	Residence
+Office	Home	Other/Fax
+Mind Tree School	NC, Kamand	267257				NC, Kamand
+Other Important Numbers
+Banks
+Name	Designation	Contact	Email	Office
+Office	Home	Other/Fax
+PNB Bank	PNB Bank (IIT Branch)	267094		9805517280		South Campus Kamand
+SBI Bank	SBI Bank (IIT Branch)	267093		9805005031		South Campus Kamand
+Police Chowki Kamand
+Name	Designation	Contact	Email	Office
+Office	Home	Other/Fax
+Kamand Police Chowki		269400				Kamand
